@@ -21,7 +21,7 @@
 	</dependencies>
 	     
      <build>
-		<finalName>sbi-app</finalName>
+		<finalName>sbi-app1</finalName>
 	  </build>
 
 </project>
